@@ -1,6 +1,3 @@
-# 1단계: AWS 백서 정리하기
-
-
 # 주요 서비스 Overview
 <img width="835" alt="overview-1" src="https://user-images.githubusercontent.com/61778930/161017929-7b9a98f4-20d8-4f67-a93d-a3ab9645200b.png">
 
