@@ -11,3 +11,4 @@
 
 ## 🏴 AWS 공식 문서 & Youtube 강연 정리
 - [Amazon EKS 소개 및 AWS의 Observability 옵션 [AWS Builders Standard Edition]](./official-speech-memo/day1.md)
+- [DevOps를 위한 다양한 AWS 서비스 소개 [AWS Builders Standard Edition]](./official-speech-memo/day2.md)
